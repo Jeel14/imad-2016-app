@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Jeel Article Three </title>
+    </head>
+    <body>
+        <div>
+            <a href="/">Home</a>
+        </div>
+        <hr>
+        <div>
+            <h3>Hello Viewers</h3>
+        </div>
+        <div>
+            <p>
+                Hey Welcome to my 3rd Webpage!
+            </p>
+        </div>
+    </body>
+        
+</html>
